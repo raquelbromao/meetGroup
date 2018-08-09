@@ -1,0 +1,17 @@
+C:\Users\Raquel\source\repos\MeetGroup_ReservaSalas\MeetGroup_ReservaSalas\bin\Debug\MeetGroup_ReservaSalas.exe.config
+C:\Users\Raquel\source\repos\MeetGroup_ReservaSalas\MeetGroup_ReservaSalas\bin\Debug\MeetGroup_ReservaSalas.exe
+C:\Users\Raquel\source\repos\MeetGroup_ReservaSalas\MeetGroup_ReservaSalas\bin\Debug\MeetGroup_ReservaSalas.pdb
+C:\Users\Raquel\source\repos\MeetGroup_ReservaSalas\MeetGroup_ReservaSalas\obj\Debug\MeetGroup_ReservaSalas.csprojResolveAssemblyReference.cache
+C:\Users\Raquel\source\repos\MeetGroup_ReservaSalas\MeetGroup_ReservaSalas\obj\Debug\MeetGroup_ReservaSalas.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\source\repos\MeetGroup_ReservaSalas\MeetGroup_ReservaSalas\obj\Debug\MeetGroup_ReservaSalas.exe
+C:\Users\Raquel\source\repos\MeetGroup_ReservaSalas\MeetGroup_ReservaSalas\obj\Debug\MeetGroup_ReservaSalas.pdb
+C:\Users\Raquel\source\repos\MeetGroup_ReservaSalas\MeetGroup_ReservaSalas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raquel\source\repos\MeetGroup_ReservaSalas\MeetGroup_ReservaSalas\bin\Debug\Newtonsoft.Json.xml
+C:\Fontes\MeetGroup_ReservaSalas(1)\MeetGroup_ReservaSalas\bin\Debug\MeetGroup_ReservaSalas.exe.config
+C:\Fontes\MeetGroup_ReservaSalas(1)\MeetGroup_ReservaSalas\obj\Debug\MeetGroup_ReservaSalas.exe
+C:\Fontes\MeetGroup_ReservaSalas(1)\MeetGroup_ReservaSalas\obj\Debug\MeetGroup_ReservaSalas.pdb
+C:\Fontes\MeetGroup_ReservaSalas(1)\MeetGroup_ReservaSalas\bin\Debug\MeetGroup_ReservaSalas.exe
+C:\Fontes\MeetGroup_ReservaSalas(1)\MeetGroup_ReservaSalas\bin\Debug\MeetGroup_ReservaSalas.pdb
+C:\Fontes\MeetGroup_ReservaSalas(1)\MeetGroup_ReservaSalas\bin\Debug\Newtonsoft.Json.dll
+C:\Fontes\MeetGroup_ReservaSalas(1)\MeetGroup_ReservaSalas\bin\Debug\Newtonsoft.Json.xml
+C:\Fontes\MeetGroup_ReservaSalas(1)\MeetGroup_ReservaSalas\obj\Debug\MeetGroup_ReservaSalas.csprojResolveAssemblyReference.cache
